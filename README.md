@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repositorio de prueba y practica para el examen de henry
+Este es un proyecto de prueba para aprender a crear un repositorio en github y poder clonarlo a mi computador de forma local
